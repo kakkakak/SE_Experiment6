@@ -28,6 +28,7 @@
                 android:id="@+id/toolbar"
                 android:layout_width="match_parent"
                 android:layout_height="?actionBarSize"
+                android:background="#2196F3"
                 android:paddingStart="@dimen/file_list_toolbar_padding_start"
                 android:paddingEnd="@dimen/file_list_toolbar_padding_end_with_overflow"
                 app:navigationIcon="@drawable/menu_icon_control_normal_24dp"
